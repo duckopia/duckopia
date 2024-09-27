@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Initemation Studio
 - 📫 How to reach me thang@qnzz.onmicrosoft.com
 - 😄 Pronouns: Quack!
-- ⚡ Fun fact: I've listened to "Never Gonna Give You Up"
+- ⚡ Fun fact: I've listened to <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Do Not Click</a>
 
 <!---
 duckopia/duckopia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
