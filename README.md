@@ -3,12 +3,13 @@
 - 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on Initemation Studio
 - 📫 How to reach me thang@qnzz.onmicrosoft.com
-- 😄 Pronouns: Quack!
+- 😄 Pronouns: Human
 - ⚡ Fun fact: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Do Not Click</a>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=duckopia&theme=iceberg&border_radius=15&card_width=499" alt="GitHub Streak" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckopia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duckopia&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=duckopia&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=duckopia&theme=default&show_icons=true&hide_border=true&layout=compact)
 <!---
 duckopia/duckopia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
