@@ -7,7 +7,6 @@
 - ⚡ Fun fact: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Do Not Click</a>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=duckopia&theme=iceberg&border_radius=15&card_width=499" alt="GitHub Streak" /></a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckopia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
