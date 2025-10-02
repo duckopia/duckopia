@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thang.
 - 👀 I’m interested in C++, C#, Python, Java,.. 
-- 🌱 I’m currently learning C# and Python
+- 🌱 I’m currently learning C# and C++
 - 💞️ I’m looking to collaborate on Initemation Studio
 - 📫 How to reach me thang@qnzz.onmicrosoft.com
 - 😄 Pronouns: Human
